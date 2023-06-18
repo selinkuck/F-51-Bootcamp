@@ -47,10 +47,10 @@ Parken, günümüzün en büyük sorunlarından biri olan park sorununu çözmey
 Sprint hedeflerine ulaşıldı ve ürün planlandığı gibi geliştirildi.
 
 - *Alınan Kararlar:* Diğer sprint'te uygulamaya haritayı bağlamamız lazım. Daha aktif olmamız lazım.
-- *Sprint Rewiev Katılımcıları:* Selin Küçük / Thir Metehan Eren / Sümeyye Nur Özgenç / Emirhan Tokat / Mertcan Sağlam
+- *Sprint Rewiev Katılımcıları:* Selin Küçük / Tahir Metehan Eren / Sümeyye Nur Özgenç / Emirhan Tokat / Mertcan Sağlam
 
 - **Sprint Retrospective:** 3 şey üzerine konuşuldu.
-- *Neler iyi gitti?* Çok hızlı toplandık. Ürün fikrini kısa bir sürede bulduk İletişim genel olarak iyiydi.Sorunla karşılaşıldıüında herkes çok yardımcı ve destekçi oldu. Ekibin motivasyonu çok yüksekti.
+- *Neler iyi gitti?* Çok hızlı toplandık. Ürün fikrini kısa bir sürede bulduk. İletişim genel olarak iyiydi.Sorunla karşılaşıldığında herkes çok yardımcı ve destekçi oldu. Ekibin motivasyonu çok yüksekti.
 - *Hangi sorunlar ile karşılaştık?* 1.Sprint Selin (ben) ve Mertcan’ın final haftasına denk geldiği için bir kaç gün aktif olamadılar.
 - *Neler Geliştirilmeli?* Whatsapp mesajlarına herkes elinden geldiğince hızlı geri dönüş yapmalı. Herkes yaptığı iş için sık  sık geri dönüş vermeli.  
 
