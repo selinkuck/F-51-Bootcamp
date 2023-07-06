@@ -42,7 +42,7 @@ Parken, günümüzün en büyük sorunlarından biri olan park sorununu çözmey
   ![Screenshot3](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_1/Screenshot_1687022020.png)
   ![Screenshot4](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_1/Screenshot_1687021978.png)
   ![Screenshot5](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_1/Screenshot_1687022078.png)
-  
+
 - **Sprint Rewiev:**
 Sprint hedeflerine ulaşıldı ve ürün planlandığı gibi geliştirildi.
 
@@ -52,5 +52,33 @@ Sprint hedeflerine ulaşıldı ve ürün planlandığı gibi geliştirildi.
 - **Sprint Retrospective:** 3 şey üzerine konuşuldu.
 - *Neler iyi gitti?* Çok hızlı toplandık. Ürün fikrini kısa bir sürede bulduk. İletişim genel olarak iyiydi.Sorunla karşılaşıldığında herkes çok yardımcı ve destekçi oldu. Ekibin motivasyonu çok yüksekti.
 - *Hangi sorunlar ile karşılaştık?* 1.Sprint Selin (ben) ve Mertcan’ın final haftasına denk geldiği için bir kaç gün aktif olamadılar.
-- *Neler Geliştirilmeli?* Whatsapp mesajlarına herkes elinden geldiğince hızlı geri dönüş yapmalı. Herkes yaptığı iş için sık  sık geri dönüş vermeli.  
+- *Neler Geliştirilmeli?* Whatsapp mesajlarına herkes elinden geldiğince hızlı geri dönüş yapmalı. Herkes yaptığı iş için sık  sık geri dönüş vermeli.
+---------------------------
+# Sprint 2
+- **Sprint Notları:** User Story’ler product backlog’ların içine yazılmıştır. Product backlog itemlara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint İçerisinde Tamamlanması Tahmin Edilen Puan:** 100 puan
+- **Puan Tamamlama Mantığı**: Toplamda proje boyunca tamamlanması geren 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde 2. Sprinte 100 puan verilmiştir.
+-  **Backlog düzeni ve story seçimleri:** Backlog’umuz ilk yapılacak storylere göre düzenlenmiştir. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Story’ler task’lere bölünmüştür.
+-  **Daily Scrum:** Daily scrum toplantılarının Whatsapp’tan yapılmasına karar verilmiştir. Daily scrum örneği word dosyası tarafından paylaşılmaktadır. [Sprint2 Daily Scrum Chats](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_2/Daily_Scrum_2.Sprint.docx)
+- **Sprint Board Update**
+  ![Backlog1](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_2/Screenshot%202023-07-02%20151056.png)
+  ![Backlog2](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_2/Screenshot%202023-07-02%20151141.png)
+  ![Backlog3](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_2/Screenshot%202023-07-02%20151211.png)
+  ![Backlog4](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_2/Screenshot%202023-07-02%20151228.png)
+- **Ürün Durumu Ekran Görüntüleri**
+   ![Screenshot1](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_2/Screenshot_1688300217.png)
+   ![Screenshot2](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_1/Screenshot_1687022067.png)
+   ![Screenshot3](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_1/Screenshot_1687022180.png)
 
+- **Sprint Rewiev:**
+Sprint hedeflerine ulaşıldı ve ürün planlandığı gibi geliştirildi.
+
+- *Alınan Kararlar:* Bu sprinte denk gelen 9 günlük bayram tatilinden dolayı oluşan boşluğu kapatmamız gerek, daha çok iletişimde olmamız lazım. Son sprint bitiminden bir kaç gün önce ekipçe toplanarak 1 dakikalık videoyu hazırlamak için planlama yapılmalı.
+- *Sprint Rewiev Katılımcıları:* Selin Küçük / Tahir Metehan Eren / Sümeyye Nur Özgenç / Emirhan Tokat / Mertcan Sağlam
+    
+- **Sprint Retrospective:** 3 şey üzerine konuşuldu.
+- *Neler iyi gitti?* Ekip olarak motivasyonumuz hiç eksilmedi aksine daha da arttı.
+- *Hangi sorunlar ile karşılaştık?* Sprint’in 2. Haftası bayramdan dolayı 9 gün tatil olduğu için çok fazla aktif olamadık. Hedeflediğimizden daha az geliştirme yapabildik.
+- *Neler Geliştirilmeli?* Artık son sprinte girdiğimiz için daha fazla iletişimde kalarak eksikleri kapatmamız gerekli.
+  
+  
