@@ -80,5 +80,6 @@ Sprint hedeflerine ulaşıldı ve ürün planlandığı gibi geliştirildi.
 - *Neler iyi gitti?* Ekip olarak motivasyonumuz hiç eksilmedi aksine daha da arttı.
 - *Hangi sorunlar ile karşılaştık?* Sprint’in 2. Haftası bayramdan dolayı 9 gün tatil olduğu için çok fazla aktif olamadık. Hedeflediğimizden daha az geliştirme yapabildik.
 - *Neler Geliştirilmeli?* Artık son sprinte girdiğimiz için daha fazla iletişimde kalarak eksikleri kapatmamız gerekli.
+- *Neler Geliştirilmeli?* Harita API çalışır hale getirilmeli.
   
   
