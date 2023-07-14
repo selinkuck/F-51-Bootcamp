@@ -23,137 +23,166 @@ version: 1.0.0+1
 environment:
   sdk: '>=2.18.2 <3.0.0'
 
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
 dependencies:
   flutter:
     sdk: flutter
+    
 
-  firebase_core: ^2.14.0
-  firebase_auth: ^4.6.3
-  google_sign_in: ^6.1.4
 
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   google_fonts: ^3.0.1
+  flutter_polyline_points: ^1.0.0
+  google_maps_flutter: ^2.3.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
   flutter_lints: ^2.0.0
 
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
 flutter:
 
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
   uses-material-design: true
 
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
   assets:
-    - assets/page-1/images/favoritesduotone.png
     - assets/page-1/images/maplight.png
-    - assets/page-1/images/maplight-eap.png
-    - assets/page-1/images/undrawmobilepaymentsedgf-1.png
-    - assets/page-1/images/image-2.png
-    - assets/page-1/images/outline-interface-search.png
-    - assets/page-1/images/union.png
-    - assets/page-1/images/image-7.png
-    - assets/page-1/images/outline-interface-history.png
-    - assets/page-1/images/simple-line-icons-support.png
-    - assets/page-1/images/emojione-check-mark-button.png
-    - assets/page-1/images/image-6.png
-    - assets/page-1/images/image-4-bg.png
-    - assets/page-1/images/image-3.png
-    - assets/page-1/images/image-5-bg.png
-    - assets/page-1/images/image-4-bg-aXE.png
-    - assets/page-1/images/photo.png
-    - assets/page-1/images/ic-round-directions-car.png
-    - assets/page-1/images/fa-solid-parking.png
-    - assets/page-1/images/maplight-E9z.png
-    - assets/page-1/images/navigation-menu-home.png
-    - assets/page-1/images/message.png
-    - assets/page-1/images/ei-close-o.png
-    - assets/page-1/images/fa-solid-parking-zYL.png
-    - assets/page-1/images/feather-settings.png
-    - assets/page-1/images/solid-interface-cursor.png
-    - assets/page-1/images/gridicons-location.png
-    - assets/page-1/images/maplight-x1i.png
-    - assets/page-1/images/favoritesduotone-nuA.png
-    - assets/page-1/images/pagination-light.png
-    - assets/page-1/images/image-4-bg-8J8.png
-    - assets/page-1/images/ps-promo.png
-    - assets/page-1/images/ei-close.png
-    - assets/page-1/images/photo-FpQ.png
-    - assets/page-1/images/solid-navigation-location.png
-    - assets/page-1/images/photo-h24.png
-    - assets/page-1/images/solid-status-star.png
-    - assets/page-1/images/image-4.png
-    - assets/page-1/images/photo-tXe.png
-    - assets/page-1/images/vector.png
-    - assets/page-1/images/auto-group-axdw.png
-    - assets/page-1/images/maplight-mQp.png
-    - assets/page-1/images/favoritesduotone-xGt.png
-    - assets/page-1/images/outline-interface-history-2pL.png
-    - assets/page-1/images/pagination-light-zo6.png
-    - assets/page-1/images/solid-interface-cursor-17r.png
-    - assets/page-1/images/solid-interface-cursor-XU8.png
-    - assets/page-1/images/outline-brands-apple.png
-    - assets/page-1/images/icon-settings-privacypolicy.png
-    - assets/page-1/images/fa-regular-edit.png
-    - assets/page-1/images/fa-solid-parking-aUC.png
-    - assets/page-1/images/icon-settings-notifications.png
-    - assets/page-1/images/ic-round-directions-car-1qN.png
-    - assets/page-1/images/ic-round-directions-car-CVA.png
-    - assets/page-1/images/emojione-check-mark-button-qwz.png
-    - assets/page-1/images/vector-M9e.png
-    - assets/page-1/images/vector-Y6x.png
-    - assets/page-1/images/arrowleft.png
-    - assets/page-1/images/group.png
-    - assets/page-1/images/solid-interface-cursor-xAY.png
-    - assets/page-1/images/undrawmaplight3hjy-1.png
+    - assets/page-1/images/favoritesduotone.png
     - assets/page-1/images/solid-navigation-explore.png
-    - assets/page-1/images/maplight-msr.png
-    - assets/page-1/images/parkenlogin.png
-    - assets/page-1/images/ic-round-directions-car-dMe.png
-    - assets/page-1/images/fa-solid-parking-xpU.png
-    - assets/page-1/images/solid-navigation-explore-SzY.png
-    - assets/page-1/images/fa-solid-parking-uVN.png
-    - assets/page-1/images/icon-settings-termsofuse.png
-    - assets/page-1/images/vector-1RE.png
-    - assets/page-1/images/favoritesduotone-Cck.png
-    - assets/page-1/images/favoritesduotone-34G.png
-    - assets/page-1/images/ic-round-directions-car-66p.png
-    - assets/page-1/images/auto-group-fjty.png
-    - assets/page-1/images/google.png
-    - assets/page-1/images/maplight-uqv.png
-    - assets/page-1/images/union-EBv.png
-    - assets/page-1/images/solid-navigation-explore-tvg.png
-    - assets/page-1/images/ic-outline-payment.png
-    - assets/page-1/images/ic-round-directions-car-QCk.png
-    - assets/page-1/images/vector-mFS.png
-    - assets/page-1/images/solid-interface-cursor-mXS.png
-    - assets/page-1/images/favoritesduotone-stQ.png
-    - assets/page-1/images/outline-interface-caret-down.png
-    - assets/page-1/images/ic-round-history.png
-    - assets/page-1/images/icon-settings-language.png
-    - assets/page-1/images/fa-solid-parking-7qE.png
-    - assets/page-1/images/auto-group-zrex.png
-    - assets/page-1/images/rectangle-9.png
-    - assets/page-1/images/vector-GPe.png
-    - assets/page-1/images/navigation-menu-home-pUL.png
+    - assets/page-1/images/emojione-check-mark-button.png
+    - assets/page-1/images/outline-brands-apple.png
+    - assets/page-1/images/ic-round-directions-car-b3J.png
+    - assets/page-1/images/solid-interface-cursor.png
+    - assets/page-1/images/solid-status-star.png
+    - assets/page-1/images/ic-round-directions-car.png
+    - assets/page-1/images/vector.png
+    - assets/page-1/images/favoritesduotone-b32.png
+    - assets/page-1/images/solid-interface-cursor-aFv.png
+    - assets/page-1/images/solid-interface-cursor-VeL.png
+    - assets/page-1/images/outline-interface-search.png
+    - assets/page-1/images/ic-round-directions-car-QfN.png
+    - assets/page-1/images/favoritesduotone-VC8.png
+    - assets/page-1/images/fa-solid-parking.png
+    - assets/page-1/images/ic-round-directions-car-V4g.png
     - assets/page-1/images/ls-logout.png
-    - assets/page-1/images/ic-round-directions-car-tGL.png
-    - assets/page-1/images/fa-solid-parking-CMJ.png
-    - assets/page-1/images/navigation-menu-home-h9W.png
-    - assets/page-1/images/arrowdropdownbig.png
-    - assets/page-1/images/solid-interface-cursor-Jkt.png
-    - assets/page-1/images/favoritesduotone-nZJ.png
-    - assets/page-1/images/auto-group-8bvl.png
-    - assets/page-1/images/ic-round-directions-car-LEQ.png
-    - assets/page-1/images/solid-interface-other-1.png
-    - assets/page-1/images/facebook.png
-    - assets/page-1/images/vector-Zcg.png
-    - assets/page-1/images/gridicons-location-aEY.png
-    - assets/page-1/images/solid-interface-cursor-kvp.png
-    - assets/page-1/images/solid-interface-other-1-Fe4.png
     - assets/page-1/images/octicon-info.png
+    - assets/page-1/images/fa-solid-parking-jXr.png
+    - assets/page-1/images/favoritesduotone-iYC.png
+    - assets/page-1/images/fa-solid-parking-NYC.png
+    - assets/page-1/images/ic-outline-payment.png
+    - assets/page-1/images/vector-i2x.png
+    - assets/page-1/images/outline-interface-history.png
+    - assets/page-1/images/maplight-j9e.png
+    - assets/page-1/images/favoritesduotone-ieQ.png
+    - assets/page-1/images/ic-round-directions-car-RYp.png
+    - assets/page-1/images/navigation-menu-home.png
+    - assets/page-1/images/solid-navigation-location.png
+    - assets/page-1/images/auto-group-ks96.png
+    - assets/page-1/images/solid-interface-cursor-kwe.png
+    - assets/page-1/images/google.png
+    - assets/page-1/images/ic-round-history.png
+    - assets/page-1/images/arrowdropdownbig.png
+    - assets/page-1/images/favoritesduotone-eDa.png
+    - assets/page-1/images/auto-group-bdrn.png
+    - assets/page-1/images/solid-interface-other-1.png
+    - assets/page-1/images/union.png
+    - assets/page-1/images/solid-interface-cursor-VzC.png
+    - assets/page-1/images/pagination-light.png
+    - assets/page-1/images/simple-line-icons-support.png
+    - assets/page-1/images/auto-group-3rf6.png
+    - assets/page-1/images/solid-navigation-explore-HVE.png
+    - assets/page-1/images/union-Nh2.png
+    - assets/page-1/images/maplight-i3N.png
+    - assets/page-1/images/facebook.png
+    - assets/page-1/images/feather-settings.png
+    - assets/page-1/images/vector-1nU.png
+    - assets/page-1/images/maplight-9Sk.png
+    - assets/page-1/images/gridicons-location.png
+    - assets/page-1/images/ic-round-directions-car-Afv.png
+    - assets/page-1/images/image-7.png
+    - assets/page-1/images/vector-VPA.png
+    - assets/page-1/images/favoritesduotone-Ggk.png
+    - assets/page-1/images/message.png
+    - assets/page-1/images/solid-navigation-explore-QgL.png
+    - assets/page-1/images/gridicons-location-AJ8.png
+    - assets/page-1/images/ps-promo.png
+    - assets/page-1/images/solid-interface-cursor-mHE.png
+    - assets/page-1/images/pagination-light-K3r.png
+    - assets/page-1/images/fa-solid-parking-Whz.png
+    - assets/page-1/images/fa-solid-parking-jDN.png
+    - assets/page-1/images/emojione-check-mark-button-1ME.png
+    - assets/page-1/images/image-2.png
+    - assets/page-1/images/solid-interface-other-1-Zfa.png
+    - assets/page-1/images/maplight-ujz.png
+    - assets/page-1/images/fa-regular-edit.png
+    - assets/page-1/images/navigation-menu-home-4s6.png
+    - assets/page-1/images/ic-round-directions-car-26Q.png
+    - assets/page-1/images/ei-close.png
+    - assets/page-1/images/image-4.png
+    - assets/page-1/images/solid-interface-cursor-E6Q.png
+    - assets/page-1/images/fa-solid-parking-Qh2.png
+    - assets/page-1/images/arrowleft.png
+    - assets/page-1/images/maplight-J12.png
+    - assets/page-1/images/outline-interface-history-mvC.png
+    - assets/page-1/images/group.png
+    - assets/page-1/images/vector-4PW.png
+    - assets/page-1/images/ei-close-o.png
+    - assets/page-1/images/navigation-menu-home-LF6.png
+    - assets/page-1/images/image-3.png
+    - assets/page-1/images/maplight-Hxg.png
+    - assets/page-1/images/vector-Run.png
+    - assets/page-1/images/ic-round-directions-car-6Zz.png
+    - assets/page-1/images/fa-solid-parking-dpp.png
+    - assets/page-1/images/vector-L5a.png
+    - assets/page-1/images/icon-settings-termsofuse.png
+    - assets/page-1/images/icon-settings-notifications.png
+    - assets/page-1/images/icon-settings-privacypolicy.png
+    - assets/page-1/images/outline-interface-caret-down.png
+    - assets/page-1/images/icon-settings-language.png
+    - assets/page-1/images/photo.png
+    - assets/page-1/images/photo-cmr.png
+    - assets/page-1/images/photo-PBa.png
+    - assets/page-1/images/undrawmaplight3hjy-1.png
+    - assets/page-1/images/auto-group-fgxt.png
+    - assets/page-1/images/navigation-menu-home-QWx.png
+    - assets/page-1/images/auto-group-txrs.png
+    - assets/page-1/images/undrawmobilepaymentsedgf-1.png
+    - assets/page-1/images/photo-94x.png
+    - assets/page-1/images/image-4-bg.png
+    - assets/page-1/images/image-5-bg.png
+    - assets/page-1/images/image-4-bg-xBv.png
+    - assets/page-1/images/image-4-bg-FA4.png
     - assets/page-1/images/undrawcitydriverjh2h-1.png
-    - assets/page-1/images/navigation-menu-home-qXr.png
+    - assets/page-1/images/image-6.png
+    - assets/page-1/images/rectangle-9.png
+    - assets/page-1/images/parkenlogin.png
+    - google_maps_flutter: ^2.0.1
+
+    
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
