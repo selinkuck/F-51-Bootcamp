@@ -79,9 +79,34 @@ Sprint hedeflerine ulaşıldı ve ürün planlandığı gibi geliştirildi.
 - **Sprint Retrospective:** 3 şey üzerine konuşuldu.
 - *Neler iyi gitti?* Ekip olarak motivasyonumuz hiç eksilmedi aksine daha da arttı.
 - *Hangi sorunlar ile karşılaştık?* Sprint’in 2. Haftası bayramdan dolayı 9 gün tatil olduğu için çok fazla aktif olamadık. Hedeflediğimizden daha az geliştirme yapabildik.
-- *Neler Geliştirilmeli?* Artık son sprinte girdiğimiz için daha fazla iletişimde kalarak eksikleri kapatmamız gerekli.
-- *Neler Geliştirilmeli?* Harita API çalışır hale getirilmeli.
+- *Neler Geliştirilmeli?* Artık son sprinte girdiğimiz için daha fazla iletişimde kalarak eksikleri kapatmamız gerekli. Harita API çalışır hale getirilmeli.
+- --------------------------------------
+# Sprint 3
+- **Sprint Notları:** User Story’ler product backlog’ların içine yazılmıştır. Product backlog itemlara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint İçerisinde Tamamlanması Tahmin Edilen Puan:** 100 puan
+- **Puan Tamamlama Mantığı**: Toplamda proje boyunca tamamlanması geren 300 puanlık backlog bulunmaktadır. 1. ve 2. sprintte toplam 200 puan tamamlandı. 3.sprinte kalan puan 100 olmuştur.
+- **Backlog düzeni ve story seçimleri:** Backlog’umuz ilk yapılacak storylere göre düzenlenmiştir. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Story’ler task’lere bölünmüştür.
+- **Daily Scrum:** Daily scrum toplantılarının Whatsapp’tan yapılmasına karar verilmiştir. Daily scrum örneği word dosyası tarafından paylaşılmaktadır. [Sprint3 Daily Scrum Chats](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_3/Daily_Scrum_Chats3.docx)
+- **Sprint Board Update**
+  ![Backlog1](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_3/Screenshot%202023-07-16%20184508.png)
+  ![Backlog2](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_3/Screenshot%202023-07-16%20184529.png)
+  ![Backlog3](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_3/Screenshot%202023-07-16%20184555.png)
+  ![Backlog4](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_3/Screenshot%202023-07-16%20184613.png)
+- **Ürün Durumu Ekran Görüntüleri**
+  ![Screenshot1](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_1/Screenshot_1687022029.png)
+  ![Screenshot2](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_1/Screenshot_1687022168%20-%20Copy.png)
+  ![Screenshot3](https://github.com/selinkuck/F-51-Bootcamp/blob/main/Project%20Management/sprint_1/Screenshot_1687022140.png)
 
-- Easter Egg
+- **Sprint Rewiev:**
+Sprint hedeflerine ulaşıldı ve ürün planlandığı gibi geliştirildi.
+
+- *Alınan Kararlar:* Ürünün 1 dklık videosu oluşturulacak.
+- *Sprint Rewiev Katılımcıları:* Selin Küçük / Tahir Metehan Eren / Sümeyye Nur Özgenç / Emirhan Tokat / Mertcan Sağlam
+
+- **Sprint Retrospective:** 2 şey üzerine konuştuk.
+- *Neler iyi gitti?* Tüm görevler tamamlandı. Ürün istediğimiz gibi geliştirildi.
+- *Hangi sorunlar ile karşılaştık?* Bazı takım üyelerinin kişisel hayatındaki yoğunluklardan dolayı bazı aksamalar yaşandı.
+- *Diğer Notlar:* Dosyada bulunan miro linkinden bootcamp boyunca yaptığımız ilerlemeleri görebilirsiniz.
+
   
   
