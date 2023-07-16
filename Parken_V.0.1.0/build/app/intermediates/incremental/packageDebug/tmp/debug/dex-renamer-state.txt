@@ -1,7 +1,0 @@
-#Sun Jun 18 23:22:16 TRT 2023
-base.1=C\:\\src\\projects\\Parken_V.0.1.0\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
-path.1=classes2.dex
-base.0=C\:\\src\\projects\\Parken_V.0.1.0\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.1=classes2.dex
-renamed.0=classes.dex
-path.0=classes.dex
